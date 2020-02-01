@@ -21,7 +21,6 @@
 > * [我也有话要说](/i-have-a-say/)
 > * [人人都能用英语](/everyone-can-use-english/)
 > * [挤挤都会有的 —— 写给女生的性高潮指南](/ji/)
-## 其他
 > * Beyond-feelings（https://github.com/liushui0712/beyond-feelings.git）
 
 
