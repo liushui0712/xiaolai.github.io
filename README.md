@@ -11,7 +11,7 @@
 > * TOEFL 核心词汇 21 天突破
 > * [TOEFL 高分作文](/twe185/)
 
-## 其它
+## 开源链接
 
 > * [区块链小白书](https://blockchainlittlebook.com)
 > * [定投改变命运（第三版）](https://onregularinvesting.com)
